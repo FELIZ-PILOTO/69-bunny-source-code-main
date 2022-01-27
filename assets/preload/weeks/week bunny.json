@@ -1,0 +1,57 @@
+{
+	"storyName": "69 the bunny",
+	"hideFreeplay": false,
+	"weekBackground": "fondo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"bunny",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"happyness",
+			"icon-bunny",
+			[
+				55,
+				215,
+				255
+			]
+		],
+		[
+			"problems",
+			"icon-bunny preocupado",
+			[
+				6,
+				173,
+				253
+			]
+		],
+		[
+			"mentals",
+			"icon-bunny mad",
+			[
+				0,
+				120,
+				255
+			]
+		],
+		[
+			"traumatizated",
+			"icon-bunny crazy",
+			[
+				155,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "week bunny"
+}
