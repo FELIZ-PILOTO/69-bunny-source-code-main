@@ -16,8 +16,7 @@ Mod:
 * Takeshi - Animations
 * Feliz Piloto - Coding and Charting
 
-![](https://images.gamebanana.com/img/ss/mods/61d9285460823.jpg)
 ### Special Thanks
 * Shadow Mario - Engine programmer
 * RiverOaken - Engine Artist and animator
- 
+ ![](https://images.gamebanana.com/img/ss/mods/61d9285460823.jpg)
