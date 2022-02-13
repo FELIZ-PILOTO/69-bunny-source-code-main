@@ -2,7 +2,7 @@
 # Friday Night Funkin' - Vs 69 The Bunny
  It is the source code of the Mod of 69 The Bunny
  
- ![](https://images.gamebanana.com/img/ss/mods/61d909a783494.jpg)
+![](https://images.gamebanana.com/img/ss/mods/61d909a783494.jpg)
 
 You can use this source code of the mod: vs 69 the bunny,
 well to the point as I said you can use it so you can know how it was coded.
@@ -19,4 +19,5 @@ Mod:
 ### Special Thanks
 * Shadow Mario - Engine programmer
 * RiverOaken - Engine Artist and animator
+
  ![](https://images.gamebanana.com/img/ss/mods/61d9285460823.jpg)
