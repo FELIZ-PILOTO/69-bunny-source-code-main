@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
-# Friday Night Funkin' - Vs 69 The Bunny
+# Friday Night Funkin': Vs 69 The Bunny
  It is the source code of the Mod of 69 The Bunny
  
 ![](https://images.gamebanana.com/img/ss/mods/61d909a783494.jpg)
