@@ -8,7 +8,10 @@ You can use this source code of the mod: vs 69 the bunny, well to the point as I
 
 ## Credits:
 * 69 The Bunny - owner and director
-* Tago - ArtsMain
-* Copito - Musical composer
+* Tago - Arts
+* Copito - Musical composition
 * Takeshi - animations
 * Feliz Piloto - Coding and Charting
+
+### Special Thanks
+* Shadow Mario - Engine
