@@ -16,7 +16,7 @@ Mod:
 * Takeshi - Animations
 * Feliz Piloto - Coding and Charting
 
-### Psych Engine Team
+### Psych Engine Team:
 * Shadow Mario - Engine programmer
 * RiverOaken - Engine Artist and animator
 
